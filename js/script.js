@@ -8,3 +8,4 @@ $('#random-gif-btn').click(function(){
 	});
 });
 
+// image_url
