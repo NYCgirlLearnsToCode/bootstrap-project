@@ -1,7 +1,3 @@
-# Bootstrap Template
+# Bootstrap Project
 
-This is a template using Bootstrap 3, remember to change github repo with 
-
-git remote set-url origin __________
-
-paste new link in for ___________
+Gif generator and bootstrap test
